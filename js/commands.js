@@ -76,7 +76,7 @@ Built With:
 - YOLO
 </pre>`,
 
-`<a href="https://github.com/navz-03/legisum-ai" target="_blank"><span class='underline'>Legisum AI</span></a>`,
+`<a href="https://github.com/navz-03/legisumai" target="_blank"><span class='underline'>Legisum AI</span></a>`,
 `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
 Developed Retrieval Augmented Generation system to summarize the legal documents and extract the key
 points
